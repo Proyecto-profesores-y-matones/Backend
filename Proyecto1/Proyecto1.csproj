@@ -11,7 +11,12 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Controllers\" />
+      <Folder Include="DTOs\Games\" />
+      <Folder Include="DTOs\Lobby\" />
+      <Folder Include="DTOs\Moves\" />
+      <Folder Include="DTOs\Skins\" />
+      <Folder Include="Infrastructure\Repositories\Interfaces\" />
+      <Folder Include="Models\Enums\" />
     </ItemGroup>
 
 </Project>
