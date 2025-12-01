@@ -25,10 +25,4 @@
         <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="9.0.6" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="DTOs\Lobby\" />
-      <Folder Include="DTOs\Moves\" />
-      <Folder Include="DTOs\Skins\" />
-    </ItemGroup>
-
 </Project>
