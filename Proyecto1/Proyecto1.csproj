@@ -29,7 +29,6 @@
       <Folder Include="DTOs\Lobby\" />
       <Folder Include="DTOs\Moves\" />
       <Folder Include="DTOs\Skins\" />
-      <Folder Include="Models\Enums\" />
     </ItemGroup>
 
 </Project>
