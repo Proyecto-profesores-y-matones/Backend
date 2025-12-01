@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ernesto\\RiderProjects\\Proyecto1\\Proyecto1\\Proyecto1.csproj": {}
+    "C:\\Users\\lucas\\RiderProjects\\Backend\\Proyecto1\\Proyecto1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ernesto\\RiderProjects\\Proyecto1\\Proyecto1\\Proyecto1.csproj": {
+    "C:\\Users\\lucas\\RiderProjects\\Backend\\Proyecto1\\Proyecto1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ernesto\\RiderProjects\\Proyecto1\\Proyecto1\\Proyecto1.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\RiderProjects\\Backend\\Proyecto1\\Proyecto1.csproj",
         "projectName": "Proyecto1",
-        "projectPath": "C:\\Users\\ernesto\\RiderProjects\\Proyecto1\\Proyecto1\\Proyecto1.csproj",
-        "packagesPath": "C:\\Users\\ernesto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ernesto\\RiderProjects\\Proyecto1\\Proyecto1\\obj\\",
+        "projectPath": "C:\\Users\\lucas\\RiderProjects\\Backend\\Proyecto1\\Proyecto1.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\RiderProjects\\Backend\\Proyecto1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ernesto\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
